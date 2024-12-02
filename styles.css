@@ -8,6 +8,10 @@ div {
   flex-wrap: wrap;
 
 }
+#title{
+  font-size: 2rem;
+  
+}
 
 p, h1, figcaption{
   width: 100%;
