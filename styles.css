@@ -10,12 +10,13 @@ div {
 }
 
 #title {
-  font-size: 2rem;
+  font-size: 3rem;
   
 }
 
 p, h1, figcaption{
   width: 100%;
+  font-size: 1.5rem;
   display: block;
   text-align: center;
 }
