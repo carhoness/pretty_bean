@@ -1,4 +1,4 @@
-/* #image {
+#image {
   max-width: 50vw;}
 
 div {
@@ -8,8 +8,9 @@ div {
   flex-wrap: wrap;
 
 }
+
 #title {
-  font-size: 20rem;
+  font-size: 2rem;
   
 }
 
@@ -25,4 +26,4 @@ figcaption {
   padding-right: 25vw;
   margin-right: -8px;
   text-align: right;
-} */
+} 
