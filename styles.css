@@ -30,3 +30,9 @@ figcaption {
   margin-right: -8px;
   text-align: right;
 } 
+
+@media (max-width: 1200px) {
+  figcaption {
+    text-align: center;
+  }
+}
