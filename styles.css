@@ -10,7 +10,7 @@ div {
 }
 
 p, h1, figcaption{
-  width: 90vw;
+  width: 100%;
   display: block;
   text-align: center;
 }
