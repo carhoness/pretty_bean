@@ -8,7 +8,7 @@
   <body>
     <h1>Caprese Bruschetta</h1>
     <p>Pedro says this is tasty</p>
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="eggs">
+    <img src="fukayamamo-Cp1LK6zNEZ8-unsplash.jpg" alt="tomatoes">
     <h2>Ingredients</h2>
     <ul>
       <li>Good thick bread</li>
