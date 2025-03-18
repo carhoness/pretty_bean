@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Caprese Bruschetta</title>
+    <meta charset="UTF-8">
+  </head>
+  
+  <body>
+    <h1>Caprese Bruschetta</h1>
+    <p>Pedro says this is tasty</p>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="eggs">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Good thick bread</li>
+      <li>Mozzarella, sliced</li>
+      <li>Good tomatoes, sliced</li>
+      <li>Pesto</li>
+      <li>EVOO</li>
+      <li>Balsamic glaze</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Fry the bread in a teeny bit of oil.</li>
+      <li>Add a little oil to the pesto if too thick.</li>
+      <li>Toast the other side of the bread</li>
+      <li>Put pesto on the bread and then alternating slices of tomato and mozzarella. If the pesto isn't too salty, sprinkle tomatoes with a little salt.</li>
+      <li>Drizzle with balsamic glaze.</li>
+  </body>
+</html>
